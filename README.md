@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Quantum Physics Game
 
-## Getting Started
+A physics-based game where quantum effects manifest in macroscopic behavior, using the Standard Model of particle physics as the main mechanic.
 
-First, run the development server:
+## Core Mechanics
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Particle Interactions
+Players manipulate fundamental particles and force carriers (gluons, photons, W and Z bosons, and gravitons) to create emergent behaviors.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Energy Exchange
+Use force carriers to transfer energy between particles, influencing larger structures.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Quantum Superposition
+Particles exist in multiple states simultaneously until observed, affecting gameplay.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Gameplay Elements
 
-## Learn More
+### Levels
+Start at subatomic scale, progress to atomic, molecular, and macroscopic levels.
 
-To learn more about Next.js, take a look at the following resources:
+### Objectives
+Solve puzzles or create specific macroscopic effects by manipulating quantum particles.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Visual Style
+Abstract representation of particles and forces, with vibrant colors and dynamic animations.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Visualizations of Quantum Particle Behavior
 
-## Deploy on Vercel
+The game will feature visualizations representing key quantum phenomena that are central to the game mechanics:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. General quantum particle behavior, forming the foundation of the game's physics engine.
+2. Quantum entanglement, a crucial concept for puzzle-solving and particle interactions across distances.
+3. Quantum tunneling, which allows particles to pass through barriers, creating unexpected gameplay possibilities.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+These visualizations will help players understand and interact with the quantum mechanics underlying the game's core systems.
+# atomos
